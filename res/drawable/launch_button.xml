@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_active="true" android:drawable="@drawable/ic_activitated" />
+    <item android:state_focused="true" android:state_enabled="true" android:drawable="@drawable/ic_activity" />
+    <item android:state_enabled="true" android:drawable="@drawable/ic_activity" />
+</selector>
